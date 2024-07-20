@@ -1,5 +1,4 @@
-
-<h1 align="center">Odin Recipes 🇮🇹</h1>
+<h1 align="center">Odin Recipes :spaghetti:</h1>
 
 This is the first project assigned by The Odin Project's curriculum, and it serves as a foundation for building basic static web pages with HTML and CSS. It's a simple recipe website showcasing three traditional Italian dishes.
 
@@ -25,7 +24,7 @@ This is the first project assigned by The Odin Project's curriculum, and it serv
 
 **Live Demo:**
 
-There is nothing much to see, and I promise I have more interesting projects around here... but hey, maybe you'll learn how to make a delicious carbonara 🍝🤌: [https://vecchir.github.io/odin-recipes/](https://vecchir.github.io/odin-recipes/)
+There is nothing much to see, and I promise I have more interesting projects around here... but hey, maybe you'll learn how to make a delicious carbonara 🤌: [https://vecchir.github.io/odin-recipes/](https://vecchir.github.io/odin-recipes/)
 
 **Key Takeaways:**
 
@@ -36,7 +35,6 @@ This project was all about getting my hands dirty with some basic web developmen
 ## Author
 
 👤 **Rafael Vecchi**
-![Uploading odin-recipes-index.png…]()
 
 * Github: [@VecchiR](https://github.com/VecchiR)
-* LinkedIn: [@rafael-vecchi-silva-9588ab149](https://linkedin.com/in/rafael-vecchi-silva-9588ab149)
+* LinkedIn: [linkedin.com/in/rafaelvecchisilva/](https://www.linkedin.com/in/rafaelvecchisilva/)
