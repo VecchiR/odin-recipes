@@ -37,4 +37,4 @@ This project was all about getting my hands dirty with some basic web developmen
 👤 **Rafael Vecchi**
 
 * Github: [@VecchiR](https://github.com/VecchiR)
-* LinkedIn: [linkedin.com/in/rafaelvecchisilva/](https://www.linkedin.com/in/rafaelvecchisilva/)
+* LinkedIn: [@rafaelvecchisilva](https://www.linkedin.com/in/rafaelvecchisilva/)
