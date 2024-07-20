@@ -4,7 +4,7 @@ This is the first project assigned by The Odin Project's curriculum, and it serv
 
 ![odin-recipes-index](https://github.com/user-attachments/assets/00c2f0b7-ed7d-41c8-adba-8d29c09e2ad3)
 
-**Project Goals:**
+### Project Goals:
 
 -   **Craft a Static Website:** Learn how to develop a basic website with unchanging content.
 -   **Implement Project Organization:** Get some experience at organizing project's files, such as multiple HTML files, CSS stylesheets and image assets.
@@ -15,18 +15,18 @@ This is the first project assigned by The Odin Project's curriculum, and it serv
 -   **Deploy to a Live Platform:** Learn how to get a Live Demo up and running by utilizing Github Pages to deploy the website, making it accessible online and showcasing the project's functionality.
 
 
-**Project Structure:**
+### Project Structure:
 
 -   **index.html:** The main landing page listing all recipes.
 -   **style.css:** Contains basic CSS styles for visual enhancement.
 -   **images folder:** Stores images of the featured dishes.
 -   **recipes folder:** Contains the HTML files for each recipe's page.
 
-**Live Demo:**
+### Live Demo:
 
 There is nothing much to see, and I promise I have more interesting projects around here... but hey, maybe you'll learn how to make a delicious carbonara 🤌: [https://vecchir.github.io/odin-recipes/](https://vecchir.github.io/odin-recipes/)
 
-**Key Takeaways:**
+### Key Takeaways:
 
 This project was all about getting my hands dirty with some basic web development. It provided a hands-on introduction to HTML and CSS, which helped me get more familiar with the feel of building web pages (and contributed to that feeling of HEY, I'M MAKING THINGS!)
 
